@@ -63,5 +63,5 @@ console.log(oLibro2)
     pLibro.indice += 1
 } 
 
-/* aumentarObjeto(oLibro)
-console.log(oLibro) */
+aumentarObjeto(oLibro)
+console.log(oLibro) 
