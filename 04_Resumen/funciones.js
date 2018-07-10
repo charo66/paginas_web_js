@@ -44,7 +44,7 @@ function calcularArea(figura, datos) {
 
 function probar() {
 
-    /* let sFigura = 'triánguLO'
+    let sFigura = 'triánguLO'
     let oDatos = {base:12.3, altura: 10.5}
     console.log(calcularArea(sFigura, oDatos))
     sFigura = 'cuadrado'
@@ -52,7 +52,7 @@ function probar() {
     console.log(calcularArea(sFigura, oDatos))
     sFigura = 'circulo'
     oDatos = {r: 10}
-    console.log(calcularArea(sFigura, oDatos)) */
+    console.log(calcularArea(sFigura, oDatos)) 
 
     try {
         let sFigura = 'pentagono'
