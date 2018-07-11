@@ -4,4 +4,4 @@ let oDatos ={}
 let aDatos = [1,2]
 // aDatos = new Array()
 
-aDatos.
+//aDatos
