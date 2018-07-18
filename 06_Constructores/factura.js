@@ -80,6 +80,9 @@ function crearFactura1() {
     )
 
     //factura1.mostrar()
+
+    factura1.tipo = "Tipo C"
+
     console.log(factura1)
 }
 
@@ -119,4 +122,4 @@ function crearFactura2() {
 
 
 crearFactura1()
-crearFactura2()
+// crearFactura2()
