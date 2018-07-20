@@ -19,7 +19,6 @@ prueba() */
 
 o.mostrar() */
 
-// THIS -> el objeto creado
 
 // THIS -> el objeto creado
 
@@ -30,3 +29,5 @@ function cosaRara() {
 cosaRara()
 
 //new cosaRara()
+new cosaRara()
+
